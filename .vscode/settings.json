@@ -1,0 +1,8 @@
+{
+  "autoimport.filesToScan": "**/*.{ts,tsx, js, jsx}",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.fontSize": 16
+}
